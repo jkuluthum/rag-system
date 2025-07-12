@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #ignore chroma vector store
-chroma_db/
+chromadb/
 
 # Distribution / packaging
 .Python
@@ -138,6 +138,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+myenv/
 .env
 .envrc
 .venv
