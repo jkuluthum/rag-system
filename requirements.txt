@@ -1,0 +1,10 @@
+langchain
+langchain-huggingface
+pdfplumber
+python-dotenv
+unstructured
+langchain-groq
+streamlit
+langchain-chroma
+googleapis-common-protos
+sentence-transformers
