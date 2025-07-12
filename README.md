@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Title
 
 An interactive AI-powered app built on 
@@ -111,6 +110,3 @@ Before running the app, you need to create a `.env` file in the root directory a
 |--------------------|--------|---------------------------------------------------------------|
 | `GROQ_API_KEY`      | string | Your API key from [Groq](https://console.groq.com/keys)           |
 | `CHROMA_DB_PATH`     | string | Path where Chroma should store the vector database locally    |
-=======
-# rag-system
->>>>>>> bfdb2746e02c0fb926da4b88ea792754816d25b7
